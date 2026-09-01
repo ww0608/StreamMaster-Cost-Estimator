@@ -1,6 +1,13 @@
 # StreamMaster Cost Estimator
 A Python-based Graphical User Interface (GUI) application designed to help users calculate and manage their monthly streaming service expenses based on tiers, profiles, and optional add-ons.
 
+# Team Details
+- **Team Members**:
+  - Teh Feng Yue
+  - Teh Wen Wen
+  - Woon Kai-En
+  - Krithikaa Kumar
+
 # Features
 - Tier-Based Selection: Choose between Basic, Standard, and Premium subscription levels.
 - Dynamic Calculation: Automatically calculates costs based on the number of profiles and selected services.
